@@ -28,7 +28,7 @@
                     @forelse ($false as $item)
                     {{$item}},
                     @empty
-                    -
+                    - 
                     @endforelse
                     Subhanallah )
                 </p>
